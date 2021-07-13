@@ -30,9 +30,9 @@ export default function Home() {
             </ul>
           <p>En compléments :</p>
           <p>
-            <a className="text-link" href="/EmpreinteSocietale_documentation_v4.pdf">Documentation v4</a><br/>
-            <a className="text-link" href="modele-indicateurs">Description du Modèle</a><br/>
-            <a className="text-link" href="guide">Guide méthodologique</a>
+            Comprendre : <a className="text-link" href="modele-indicateurs">Description du Modèle</a><br/>
+            Approfondir : <a className="text-link" href="/EmpreinteSocietale_documentation_v4.pdf">Documentation v4</a><br/>
+            Préparer les documents nécessaires au calcul de l'Empreinte Sociétale : <a className="text-link" href="guide">Guide méthodologique</a>
           </p>
           <p>L'ensemble des documentations et outils mis à disposition sont libres et open source.</p>
         </div>
